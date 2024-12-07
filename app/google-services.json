@@ -1,1 +1,29 @@
-{"installed":{"client_id":"245977477510-9jteneg7l7ffm789jrpagcs673r1329j.apps.googleusercontent.com","project_id":"taskapp-441922","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs"}}
+{
+  "project_info": {
+    "project_number": "935785052292",
+    "project_id": "taskapp-441922-7db60",
+    "storage_bucket": "taskapp-441922-7db60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935785052292:android:355f3558b9ce444a1aead1",
+        "android_client_info": {
+          "package_name": "com.ifmg.gerenciadordetarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsOTAtRnY13f_suyD1kwHmxxuO6RaU9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
